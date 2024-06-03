@@ -1,0 +1,22 @@
+personalized-financial-coaching/
+│
+├── data/
+│   ├── sample_data.csv
+│   └── processed_data.csv
+│
+├── src/
+│   ├── __init__.py
+│   ├── data_processing.py
+│   ├── analytics.py
+│   ├── recommendations.py
+│   ├── main.py
+│
+├── tests/
+│   ├── test_data_processing.py
+│   ├── test_analytics.py
+│   ├── test_recommendations.py
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── setup.py
