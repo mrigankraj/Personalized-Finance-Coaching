@@ -1,0 +1,7 @@
+user_id,date,category,amount
+1,2024-01-01,Groceries,50
+1,2024-01-03,Entertainment,20
+1,2024-01-05,Rent,700
+2,2024-01-02,Groceries,60
+2,2024-01-06,Transport,15
+2,2024-01-07,Utilities,100
